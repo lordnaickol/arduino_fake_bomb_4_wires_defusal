@@ -9,6 +9,9 @@ I've included several modifications / addins:
 - Defusal masterkey which overpass the "wired defusal". It's a joker.
 - The prop starts in  a "waiting status" and require a 15-20 seconds activation by pressing the proper button.
 
+Sketch & simulator
+
+https://www.tinkercad.com/things/eDmCYTVukfY?sharecode=x-kdJX5RzNK8XFIVMLeYTk7pkPtrmHcm2NPomNwC_ng
 
 WIP
 
